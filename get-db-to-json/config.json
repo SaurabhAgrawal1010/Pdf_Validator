@@ -1,0 +1,20 @@
+{
+	"field_details":[
+		{"entity":"ENTITY_NAME_1",
+		"db_col_name":"TABLE_NAME.COLUMN_NAME_1"
+		},
+		{"entity":"ENTITY_NAME_2",
+		"db_col_name":"TABLE_NAME.COLUMN_NAME_2"	
+		}
+	],
+	"database_details":[
+		{"ip":"IP_ADDRESS",
+		"port":"PORT_NUMBER",
+		"sid":"INSTANCE",
+		"db_name":"DB_NAME",
+		"password":"DB_PASSWORD",
+		"table_name":"TABLE_NAME",
+		"table_key":"PRIMARY_KEY"
+		}
+	]
+}

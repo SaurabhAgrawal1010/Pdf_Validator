@@ -1,0 +1,10 @@
+{
+	"field_details":[
+		{"entity":"ENTITY_NAME_1",
+		"regex":"REGEX_1"
+		},
+		{"entity":"ENTITY_NAME_2",
+		"regex":"REGEX_2"
+		}
+	]
+}
